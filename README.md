@@ -27,7 +27,7 @@ Creating custom wordlists can significantly increase success rates in brute-forc
 
 ⚠️ Disclaimer <br>
 This script is intended for educational purposes only.
-Do not use this tool against any system without explicit permission. <hr>
+Do not use this tool against any system without explicit permission.
 
 👨‍💻 Author
 
