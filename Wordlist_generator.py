@@ -12,7 +12,7 @@ Features:
 - Leetspeak conversion (e.g. 'a' -> '@', 'e' -> '3')
 - Appends common suffixes and numbers
 
-Author: Atharva Dendge
+Author: Atharva Dendge { ABD }
 """
 
 import itertools
