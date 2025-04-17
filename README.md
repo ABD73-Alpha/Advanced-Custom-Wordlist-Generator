@@ -22,12 +22,12 @@ python Wordlist_generator.py
 
 * Then Input all the Information of your Target which is known to you.
 
-📌 Why Use This?
+📌 Why Use This? <br>
 Creating custom wordlists can significantly increase success rates in brute-force attacks during CTFs or real-world red teaming. This script automates that process with flexibility, helping you avoid manual wordlist creation.
 
 ⚠️ Disclaimer <br>
 This script is intended for educational purposes only.
-Do not use this tool against any system without explicit permission.
+Do not use this tool against any system without explicit permission. <hr>
 
 👨‍💻 Author
 
